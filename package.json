@@ -1,0 +1,19 @@
+{
+  "name": "geoip-service",
+  "version": "0.1.0",
+  "description": "GeoIP Resolve Service",
+  "main": "src/index.js",
+  "keywords": [
+    "geoip"
+  ],
+  "author": "Commun Team",
+  "license": "ISC",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "cyberway-core-service": "^3.54.1",
+    "geoip-lite": "^1.3.8"
+  },
+  "devDependencies": {}
+}
