@@ -1,6 +1,6 @@
 {
   "name": "geoip-service",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "GeoIP Resolve Service",
   "main": "src/index.js",
   "keywords": [
